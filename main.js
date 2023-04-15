@@ -15,7 +15,7 @@ $(document).ready(function() {
         $(`
 
         <div class="overlay-imagem-link">
-            <a href="${endereçoDaNovaImagem}" target="_blank" Title="Ver imagem em tamanho real" >
+            <a href="${endereçoDaNovaImagem}" target="_blank" title="Ver imagem em tamanho real">
                 Ver imagem em tamanho real
             </a>
         </div>
